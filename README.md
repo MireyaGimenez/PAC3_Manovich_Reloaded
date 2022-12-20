@@ -3,7 +3,7 @@
 ## La hibridació en medis immersius
 
 
-Autor: Mireya Giménez Rodilla
+Autora: Mireya Giménez Rodilla
 
 
 Fecha: 21 de Desembre de 2022
