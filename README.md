@@ -1,6 +1,6 @@
 # PAC3_Manovich_Reloaded
 
-### La hibridació en medis immersius
+## La hibridació en medis immersius
 
 
 Autor: Mireya Giménez Rodilla
