@@ -6,7 +6,7 @@
 Autora: Mireya Giménez Rodilla
 
 
-Fecha: 21 de Desembre de 2022
+Data: 21 de Desembre de 2022
 
 
 ## Plantejament
